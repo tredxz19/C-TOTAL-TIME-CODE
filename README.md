@@ -1,5 +1,4 @@
 # C-TOTAL-TIME-CODE
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
